@@ -1,6 +1,6 @@
-# flutter_bloc
+# flutter_bloc_concepts
 
-Understanding BLoC State Management in Flutter.
+A new Flutter project.
 
 ## Getting Started
 
